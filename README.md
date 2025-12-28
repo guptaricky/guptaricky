@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am currently working at Persistent Systems as a Senior Engineering lead.<br>My primary skill sets are Javascript, Node.js, React, Next.js, Express, MongoDb, MySql, Php.<br>Recently started learning Python and Gen AI.
+I am currently working at Persistent Systems as a Senior Engineering lead.<br>Software Engineer with 8 years of experience in web development, specializing in ReactJS, NodeJS, and PHP. <br>Skilled in
+developing solutions for supply chain management, e-commerce platforms, and collaborative software. Successfully
+implemented Healthcare Information Systems (HIS) and Student Information Systems (SIS), improving operational workflows
+and data management<br>Recently started learning Python and Gen AI.
 
 
 ## 🌐 Socials:
